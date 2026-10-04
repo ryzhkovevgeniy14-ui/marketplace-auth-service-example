@@ -12,4 +12,7 @@ wheels/
 # Environment
 .env
 
+# IDE
+.idea/
+
 CLAUDE.md
