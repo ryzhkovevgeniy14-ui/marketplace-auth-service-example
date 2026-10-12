@@ -15,4 +15,10 @@ wheels/
 # IDE
 .idea/
 
+# Logs
+*.log
+
+# Claude Code settings
+.claude/
+
 CLAUDE.md
